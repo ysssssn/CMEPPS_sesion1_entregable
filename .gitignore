@@ -1,0 +1,21 @@
+#Java
+*.class
+bin/
+
+#Logs
+*.log
+
+#Eclipse / STS
+.metadata/
+.settings/
+.project
+.classpath
+.springBeans
+
+#SO
+.DS_Store
+Thumbs.db
+
+#Variables entorno
+.env
+.env.*
